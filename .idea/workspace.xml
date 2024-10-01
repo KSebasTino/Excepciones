@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1993d66a-10e8-48da-8bd2-588f67ce96f8" name="Changes" comment="tercera excepcion">
-      <change afterPath="$PROJECT_DIR$/Excepcion4.py" afterDir="false" />
+    <list default="true" id="1993d66a-10e8-48da-8bd2-588f67ce96f8" name="Changes" comment="quinta excepcion">
+      <change afterPath="$PROJECT_DIR$/Excepcion6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,8 @@
     "Python.Excepcion1.executor": "Run",
     "Python.Excepcion2.executor": "Run",
     "Python.Excepcion3.executor": "Run",
+    "Python.Excepcion4.executor": "Run",
+    "Python.Excepcion5.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -106,14 +108,32 @@
       <option name="project" value="LOCAL" />
       <updated>1727820202581</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="cuarta excepcion">
+      <option name="closed" value="true" />
+      <created>1727820362799</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727820362799</updated>
+    </task>
+    <task id="LOCAL-00005" summary="quinta excepcion">
+      <option name="closed" value="true" />
+      <created>1727820471322</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727820471322</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primera excepcion" />
     <MESSAGE value="segunda excepcion" />
     <MESSAGE value="tercera excepcion" />
-    <option name="LAST_COMMIT_MESSAGE" value="tercera excepcion" />
+    <MESSAGE value="cuarta excepcion" />
+    <MESSAGE value="quinta excepcion" />
+    <option name="LAST_COMMIT_MESSAGE" value="quinta excepcion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
