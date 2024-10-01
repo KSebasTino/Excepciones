@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1993d66a-10e8-48da-8bd2-588f67ce96f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Excepciones.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Excepcion1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="1993d66a-10e8-48da-8bd2-588f67ce96f8" name="Changes" comment="primera excepcion">
+      <change afterPath="$PROJECT_DIR$/Excepcion2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +80,20 @@
       <option name="presentableId" value="Default" />
       <updated>1727818826310</updated>
     </task>
+    <task id="LOCAL-00001" summary="primera excepcion">
+      <option name="closed" value="true" />
+      <created>1727819218408</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727819218408</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primera excepcion" />
+    <option name="LAST_COMMIT_MESSAGE" value="primera excepcion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
